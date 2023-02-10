@@ -4,6 +4,7 @@
 
 .second {
     overflow: auto;
+    box-sizing: border-box;
 }
 
 .second li {
@@ -48,6 +49,7 @@
     left: 0px;
     top: 1020px;
     background: #FFFFFF;
+    box-sizing: border-box;
 }
 
 .content1 {
@@ -241,6 +243,7 @@
     left: 0px;
     top: 70px;
     background: #E5E5E5;
+    box-sizing: border-box;
 }
 .btn{
     position: absolute;
@@ -285,6 +288,7 @@
     left: 0px;
     top: 1968px;
     background: #FFFFFF;
+    box-sizing: border-box;
 }
 
 .data2 {
@@ -332,6 +336,7 @@
     height: 600px;
     left: 0px;
     top: 2568px;
+    box-sizing: border-box;
 }
 
 .val1 {
@@ -377,6 +382,7 @@
     left: 0px;
     top: 3168px;
     background: #FFFFFF;
+    box-sizing: border-box;
 }
 
 .var1 {
@@ -451,6 +457,7 @@
     background: #E5E5E5;
     display: flex;
     justify-content: space-evenly;
+    box-sizing: border-box;
 }
 
 .d1 {
@@ -497,6 +504,7 @@
     height: 501px;
     background-color: #FFFFFF;
     top: 4246px;
+    box-sizing: border-box;
 }
 
 .f1 {
